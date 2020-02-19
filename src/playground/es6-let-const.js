@@ -1,3 +1,4 @@
+// const first, let second, var never.
 var nameVar = "Bryan";
 nameVar = "Maverick";
 console.log("nameVar", nameVar);
@@ -19,5 +20,3 @@ if (fullName) {
 }
 
 console.log(firstName);
-
-// const first, let second, var never.
